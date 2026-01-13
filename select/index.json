@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "夜の探検",
+  "base_artist": "chilldspot",
+  "createdAt": "2026-01-13T21:47:25.008243Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夜の探検",
+      "artist": "chilldspot",
+      "has_synced": false,
+      "path": "select/pl_01_夜の探検_chilldspot.txt"
+    }
+  ]
+}
